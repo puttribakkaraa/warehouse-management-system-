@@ -15,7 +15,7 @@ Menampilkan ringkasan total belanja, status pembayaran (Lunas/Pending), dan visu
 
 Antarmuka pencatatan barang masuk per supplier dan pemakaian stok (barang keluar) yang mendetail untuk memastikan integritas data inventaris.
 
-<img src="public/images/barangmasuk.jpeg" width="250" alt="Barang Masuk"> <img src="public/images/barangkeluar.jpeg" width="250" alt="Barang Keluar">
+<img src="public/images/barangmasuk.jpeg" width="300" alt="Barang Masuk"> <img src="public/images/barangkeluar.jpeg" width="300" alt="Barang Keluar">
 
 ### 3. Monitoring Stok Akhir 
 
@@ -43,7 +43,7 @@ Fitur ini berfungsi untuk mengelola komposisi bahan baku (resep) dari setiap pro
 
 Sistem pelaporan mingguan dan bulanan yang mencakup rincian transaksi lengkap dan siap diekspor ke format PDF/Excel untuk kebutuhan administrasi formal.
 
-<img src="public/images/laporanbulanan.jpeg" width="500" alt="Laporan Bulanan">
+<img src="public/images/bulanan.jpeg" width="500" alt="Laporan Bulanan">
 
 ---
 
